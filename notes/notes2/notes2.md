@@ -3,6 +3,7 @@
 1. What is an operating system?
 
 An operating system provides all fundamental software features of a computer. An OS enables you to use computer's hardware providing you the basic tools  that make the computer useful. All tof those features relay on the OS's kernel. Other OS features are owed to additional programs that run atop the kernel.
+
 2. What is a kernel?
 
 An OS kernel is a software component that's responsible for managing low-level features of the computer, including the following managing system hardware, memory allocation, CPU time, and program to program interaction.

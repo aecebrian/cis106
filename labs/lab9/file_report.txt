@@ -1,0 +1,17 @@
+All files in my home directory
+7, assets, .bash_aliases, .bash_history, .bash_logout, .bashrc, .bastetrc,
+Blackboard Document Rendering.pdf, .cache, cis106, cis180, class_linux_106,
+.config, Desktop, .dotnet, Downloads, essentials.sh, essentials.sh.1,
+essentials.sh.2, .face, .face.icon, file_report.txt, .gitconfig, .gnupg,
+inClassActivity, lab5files, lab6-challenge1, .local, marstenHouse,
+marstenhouse.sh, .mozilla, music, Music, Pictures, .pki, practicels,
+practicels.tar.xz, .profile, Public, Screenshot+From+2025-10-02+21-11-55.pdf,
+Screenshot+From+2025-10-02+21-15-02.pdf, scripts, .ssh,
+.sudo_as_admin_successful, Templates, Videos, .vscode, vscode.sh, wallpapers,
+wbsite, website, website_ch1_lab7, .wget-hsts, wildcardpractice,
+wildcards-in-class-activity-instructions.html, .wine
+Total number of files in my home directory
+21
+Total number of directories in my home directory
+34
+0

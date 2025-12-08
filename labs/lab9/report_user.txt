@@ -1,0 +1,78 @@
+The user root logs in with:/bin/bash and its home dir is: /root
+The user daemon logs in with:/usr/sbin/nologin and its home dir is: /usr/sbin
+The user bin logs in with:/usr/sbin/nologin and its home dir is: /bin
+The user sys logs in with:/usr/sbin/nologin and its home dir is: /dev
+The user sync logs in with:/bin/sync and its home dir is: /bin
+The user games logs in with:/usr/sbin/nologin and its home dir is: /usr/games
+The user man logs in with:/usr/sbin/nologin and its home dir is: /var/cache/man
+The user lp logs in with:/usr/sbin/nologin and its home dir is: /var/spool/lpd
+The user mail logs in with:/usr/sbin/nologin and its home dir is: /var/mail
+The user news logs in with:/usr/sbin/nologin and its home dir is: /var/spool/news
+The user uucp logs in with:/usr/sbin/nologin and its home dir is: /var/spool/uucp
+The user proxy logs in with:/usr/sbin/nologin and its home dir is: /bin
+The user www-data logs in with:/usr/sbin/nologin and its home dir is: /var/www
+The user backup logs in with:/usr/sbin/nologin and its home dir is: /var/backups
+The user list logs in with:/usr/sbin/nologin and its home dir is: /var/list
+The user irc logs in with:/usr/sbin/nologin and its home dir is: /run/ircd
+The user _apt logs in with:/usr/sbin/nologin and its home dir is: /nonexistent
+The user nobody logs in with:/usr/sbin/nologin and its home dir is: /nonexistent
+The user systemd-network logs in with:/usr/sbin/nologin and its home dir is: /
+The user dhcpcd logs in with:/bin/false and its home dir is: /usr/lib/dhcpcd
+The user tss logs in with:/bin/false and its home dir is: /var/lib/tpm
+The user systemd-timesync logs in with:/usr/sbin/nologin and its home dir is: /
+The user messagebus logs in with:/usr/sbin/nologin and its home dir is: /nonexistent
+The user dnsmasq logs in with:/usr/sbin/nologin and its home dir is: /var/lib/misc
+The user avahi logs in with:/usr/sbin/nologin and its home dir is: /run/avahi-daemon
+The user speech-dispatcher logs in with:/bin/false and its home dir is: /run/speech-dispatcher
+The user usbmux logs in with:/usr/sbin/nologin and its home dir is: /var/lib/usbmux
+The user cups-pk-helper logs in with:/usr/sbin/nologin and its home dir is: /nonexistent
+The user fwupd-refresh logs in with:/usr/sbin/nologin and its home dir is: /var/lib/fwupd
+The user geoclue logs in with:/usr/sbin/nologin and its home dir is: /var/lib/geoclue
+The user gnome-remote-desktop logs in with:/usr/sbin/nologin and its home dir is: /var/lib/gnome-remote-desktop
+The user saned logs in with:/usr/sbin/nologin and its home dir is: /var/lib/saned
+The user polkitd logs in with:/usr/sbin/nologin and its home dir is: /
+The user rtkit logs in with:/usr/sbin/nologin and its home dir is: /proc
+The user colord logs in with:/usr/sbin/nologin and its home dir is: /var/lib/colord
+The user Debian-gdm logs in with:/bin/false and its home dir is: /var/lib/gdm3
+The user aec logs in with:/bin/bash and its home dir is: /home/aec
+The user _flatpak logs in with:/usr/sbin/nologin and its home dir is: /nonexistent
+root = /bin/bash
+aec = /bin/bash
+root = /bin/bash
+daemon = /usr/sbin/nologin
+bin = /usr/sbin/nologin
+sys = /usr/sbin/nologin
+sync = /bin/sync
+games = /usr/sbin/nologin
+man = /usr/sbin/nologin
+lp = /usr/sbin/nologin
+mail = /usr/sbin/nologin
+news = /usr/sbin/nologin
+uucp = /usr/sbin/nologin
+proxy = /usr/sbin/nologin
+www-data = /usr/sbin/nologin
+backup = /usr/sbin/nologin
+list = /usr/sbin/nologin
+irc = /usr/sbin/nologin
+_apt = /usr/sbin/nologin
+nobody = /usr/sbin/nologin
+systemd-network = /usr/sbin/nologin
+dhcpcd = /bin/false
+tss = /bin/false
+systemd-timesync = /usr/sbin/nologin
+messagebus = /usr/sbin/nologin
+dnsmasq = /usr/sbin/nologin
+avahi = /usr/sbin/nologin
+speech-dispatcher = /bin/false
+usbmux = /usr/sbin/nologin
+cups-pk-helper = /usr/sbin/nologin
+fwupd-refresh = /usr/sbin/nologin
+geoclue = /usr/sbin/nologin
+gnome-remote-desktop = /usr/sbin/nologin
+saned = /usr/sbin/nologin
+polkitd = /usr/sbin/nologin
+rtkit = /usr/sbin/nologin
+colord = /usr/sbin/nologin
+Debian-gdm = /bin/false
+aec = /bin/bash
+_flatpak = /usr/sbin/nologin
